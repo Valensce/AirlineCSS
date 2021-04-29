@@ -35,10 +35,6 @@ li a:hover:not(.active) {
   background-color: #B63D88;
 }
 
-.active {
-  background-color: #4CAF50;
-}
-
 body {
 	background-image: url("Images/textures/005.jpg");
 	font-family: "Lato", sans-serif;
