@@ -38,13 +38,6 @@ li a {
 li a:hover:not(.active) {
   background-color: #B63D88;
 }
-
-
-
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 40px;}
-  .sidenav a {font-size: 30px;}
-}
 	
 /* Background image & color overlay */
 
