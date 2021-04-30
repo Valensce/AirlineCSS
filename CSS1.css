@@ -1,10 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
 
+/* Links at bottom are purposely made to be purple and underlined */
+
 a {
 	color: purple;
 	text-decoration: underline;
 }
+
+/* Navigation bar's CSS */
 
 ul {
   list-style-type: none;
@@ -35,11 +39,6 @@ li a:hover:not(.active) {
   background-color: #B63D88;
 }
 
-body {
-	background-image: url("Images/textures/005.jpg");
-	font-family: "Lato", sans-serif;
-}
-	
 
 
 @media screen and (max-height: 450px) {
@@ -47,11 +46,16 @@ body {
   .sidenav a {font-size: 30px;}
 }
 	
+/* Background image & color overlay */
 
 body {
+	background-image: url("Images/textures/005.jpg");
+	font-family: "Lato", sans-serif;
 	background-color: #e5e5ff;
 	font-family: "Lato", sans-serif;
 }
+
+/* Text */
 
 .Full {
 	
@@ -60,6 +64,8 @@ body {
  	 margin-right: auto;
   	 width: 80%;
 }
+
+/* Island Image */
 
 .island {
 	  display: block;
