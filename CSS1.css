@@ -57,6 +57,10 @@ body {
 	font-family: "Lato", sans-serif;
 }
 
+.Full {
+	ailgn-content:center;
+}
+
 .island {
 	  display: block;
  	 margin-left: auto;
