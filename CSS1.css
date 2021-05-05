@@ -39,10 +39,13 @@ li a:hover:not(.active) {
   background-color: #B63D88;
 }
 	
-/* Background image & color overlay */
+/* Background image's styling & color overlay */
 
 body {
 	background-image: url("Images/textures/005.jpg");
+	background-repeat: no-repeat;
+ 	background-size: cover;
+	background-attachment: fixed;
 	font-family: "Lato", sans-serif;
 	background-color: #e5e5ff;
 	font-family: "Lato", sans-serif;
