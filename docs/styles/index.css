@@ -8,6 +8,10 @@ a {
 	text-decoration: underline;
 }
 
+a:hover {
+  cursor: pointer;
+}
+
 /* Navigation bar's CSS */
 
 ul {
@@ -16,11 +20,17 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #3D549E;
+  font-size: 4.5
 }
 
 li {
   float: left;
   border-right:1px solid #070C1C;
+}
+
+#link {
+  color: white;
+  text-decoration: none;
 }
 
 li:last-child {
@@ -38,11 +48,10 @@ li a {
 li a:hover:not(.active) {
   background-color: #B63D88;
 }
-	
+
 /* Background image's styling & color overlay */
 
 body {
-	background-image: url("Images/textures/005.jpg");
 	background-repeat: no-repeat;
  	background-size: cover;
 	background-attachment: fixed;
@@ -51,21 +60,40 @@ body {
 	font-family: "Lato", sans-serif;
 }
 
+/* Background box properties */
+
+#content {
+	 left: 0px;
+	 font-size: 4.5px;
+}
+
 /* Text */
 
-.Full {
-	
+#Full {
 	 display: block;
  	 margin-left: auto;
  	 margin-right: auto;
-  	 width: 80%;
+  	 width: 65%;
+	 font-family:sans-serif;
 }
 
 /* Island Image */
 
-.island {
-	  display: block;
- 	 margin-left: auto;
- 	 margin-right: auto;
-  	 width: 80%;
+#island {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
 }
+
+/* Text padding */
+
+#text {
+	font-family:sans-serif;
+	padding-left: 17.5%;
+}
+
+#welcome {
+	text-color: rgb(74,95,168)
+}
+
