@@ -8,6 +8,10 @@ a {
 	text-decoration: underline;
 }
 
+a:hover {
+  cursor: pointer;
+}
+
 /* Navigation bar's CSS */
 
 ul {
@@ -21,6 +25,11 @@ ul {
 li {
   float: left;
   border-right:1px solid #070C1C;
+}
+
+#link {
+  color: white;
+  text-decoration: none;
 }
 
 li:last-child {
@@ -50,6 +59,13 @@ body {
 	font-family: "Lato", sans-serif;
 }
 
+/* Background box properties */
+
+#content {
+	 left: 0px;
+	 font-size:4.5px;
+}
+
 /* Text */
 
 .Full {
@@ -62,9 +78,16 @@ body {
 
 /* Island Image */
 
-.island {
-	  display: block;
- 	 margin-left: auto;
- 	 margin-right: auto;
-  	 width: 80%;
+#island {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
 }
+
+/* Text padding */
+
+#text {
+  padding-left: 17.5%;
+}
+
