@@ -20,6 +20,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #3D549E;
+  font-size: 4.5
 }
 
 li {
@@ -63,16 +64,17 @@ body {
 
 #content {
 	 left: 0px;
+	 font-size: 4.5px;
 }
 
 /* Text */
 
-.Full {
-
+#Full {
 	 display: block;
  	 margin-left: auto;
  	 margin-right: auto;
-  	 width: 80%;
+  	 width: 65%;
+	 font-family:sans-serif;
 }
 
 /* Island Image */
