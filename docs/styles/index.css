@@ -90,6 +90,10 @@ body {
 	padding-left: 17.5%;
 }
 
+#welcome {
+	padding-left:20px;
+}
+
 /* Heading colour */
 h3 {
 color: rgb(61, 84, 158);
