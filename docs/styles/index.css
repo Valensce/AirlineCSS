@@ -56,7 +56,7 @@ body {
  	background-size: cover;
 	background-attachment: fixed;
 	font-family: "Lato", Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	background-color: #e5e5ff;
+	background-color: rgb(61,84,158);
 }
 
 /* Background box properties */
@@ -73,7 +73,6 @@ body {
  	 margin-left: auto;
  	 margin-right: auto;
   	 width: 65%;
-	 font-family:sans-serif;
 }
 
 /* Island Image */
