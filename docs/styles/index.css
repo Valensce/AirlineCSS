@@ -55,9 +55,8 @@ body {
 	background-repeat: no-repeat;
  	background-size: cover;
 	background-attachment: fixed;
-	font-family: "Lato", sans-serif;
+	font-family: "Lato", Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	background-color: #e5e5ff;
-	font-family: "Lato", sans-serif;
 }
 
 /* Background box properties */
