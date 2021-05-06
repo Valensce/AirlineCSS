@@ -66,6 +66,12 @@ body {
 	 font-size: 4.5px;
 }
 
+/* Welcom message */
+
+#welcome {
+	padding-left: 17.5%;
+}
+
 /* Text */
 
 #Full {
@@ -97,4 +103,4 @@ color: rgb(61, 84, 158)#3D549E;
 
 h2 {
 color:	rgb(61, 84, 158)#3D549E;
-}	
+}
