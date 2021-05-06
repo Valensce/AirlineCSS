@@ -20,7 +20,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #3D549E;
-  font-size: 4.5
 }
 
 li {
@@ -96,11 +95,15 @@ body {
 	padding-left: 17.5%;
 }
 
+#welcome {
+	padding-left:20px;
+}
+
 /* Heading colour */
 h3 {
-color: rgb(61, 84, 158)#3D549E;
+color: rgb(61, 84, 158);
 }
 
 h2 {
-color:	rgb(61, 84, 158)#3D549E;
+color:	rgb(61, 84, 158);
 }
