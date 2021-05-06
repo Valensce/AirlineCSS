@@ -88,8 +88,8 @@ body {
 
 /* Text padding */
 
-#text {
-	font-family:sans-serif;
+#Full {
+	font-family:sans;
 	padding-left: 17.5%;
 }
 
@@ -97,3 +97,10 @@ body {
 	text-color: rgb(74,95,168)
 }
 
+h3 {
+color: rgb(74,95,168);
+}
+
+h2 {
+color:	rgb(74,95,168);
+}	
