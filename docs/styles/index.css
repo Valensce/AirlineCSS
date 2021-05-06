@@ -63,7 +63,6 @@ body {
 
 #content {
 	 left: 0px;
-	 font-size:4.5px;
 }
 
 /* Text */
@@ -88,6 +87,11 @@ body {
 /* Text padding */
 
 #text {
-  padding-left: 17.5%;
+	font-family:sans-serif;
+	padding-left: 17.5%;
+}
+
+#welcome {
+	text-color: rgb(74,95,168)
 }
 
