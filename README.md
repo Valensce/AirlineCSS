@@ -1,4 +1,4 @@
-<h1 align="center">Semester 1, Term 2, Year 9, CSS Assignment, 2021 </h1>
+<h1 align="center">ISABEL LIFU - Term 2 Digital Technologies Assessment, CSS web development</h1>
 
 <details><summary>Why is it benficial to separate CSS from HTML?</summary>
 <hr>
