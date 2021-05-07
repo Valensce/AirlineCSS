@@ -1,0 +1,3 @@
+*.html linguist-language=JavaScript
+*.css linguist-language=Hack
+*.js linguist-language=J
