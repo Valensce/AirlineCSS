@@ -2,7 +2,7 @@
 
 <br>
 <h2>Evaluation and Reflections:</h2>
-<br>
+<br><br><hr>
 
 <details><summary>Why is it benficial to separate CSS from HTML?</summary>
 <hr>
