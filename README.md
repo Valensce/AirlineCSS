@@ -1,8 +1,7 @@
 <h1 align="center">ISABEL LIFU - Term 2 Digital Technologies Assessment, CSS web development</h1>
 
 <br>
-<h2>Evaluation and Reflections:</h2>
-<br><br>
+
 
 <details><summary>Why is it benficial to separate CSS from HTML?</summary>
 <hr>
