@@ -1,4 +1,4 @@
-<h1 align="center">ISABEL LIFU - Term 2 Digital Technologies Assessment, CSS web development</h1>
+<h1 align="center">Valensce - Term 2 Digital Technologies Assessment, CSS web development</h1>
 
 <br>
 
